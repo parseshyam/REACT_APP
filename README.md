@@ -1,4 +1,4 @@
-1. I could have used the redux for state management and thunk async action but for now i've kept it simple.
+1. I could have used the redux for state management and thunk for dispatchcing async action but for now i've kept it simple.
 2. Didn't got that Zip crux.
 
 ### Clone and run :-
